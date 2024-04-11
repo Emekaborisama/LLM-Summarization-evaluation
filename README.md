@@ -1,2 +1,2 @@
 # LLM-Summarization-evaluation
-Evaluate you summarisation application with state of art technique. 
+Evaluate your summarization application with state of the art technique([SummEQuAL](https://openreview.net/forum?id=OT00knMzLY]))
